@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MemoriaExterna</string>
+    <string name="bt_txt_check">Comprobar Estado Memoria Externa</string>
+    <string name="bt_txt_write">Escribir en Memoria Externa</string>
+    <string name="bt_txt_read">Leer de Memoria Externa</string>
+    <string name="tv_txt_file_content"></string>
 </resources>
